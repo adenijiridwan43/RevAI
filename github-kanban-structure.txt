@@ -3,16 +3,16 @@
 ## To Do
 
 ### Week 1
-- [ ] Set up development environment
-- [ ] Initialize Django project
-- [ ] Create GitHub repository
-- [ ] Set up virtual environment
-- [ ] Install necessary packages (Django, DRF, pandas, scikit-learn)
-- [ ] Create basic project structure
-- [ ] Implement data simulation module
+- [x] Set up development environment
+- [x] Initialize Django project
+- [x] Create GitHub repository
+- [x] Set up virtual environment
+- [x] Install necessary packages (Django, DRF, pandas, scikit-learn)
+- [x] Create basic project structure
+- [x] Implement data simulation module
 - [ ] Set up database (PostgreSQL)
-- [ ] Create initial data models
-- [ ] Implement basic API endpoint structure
+- [x] Create initial data models
+- [x] Implement basic API endpoint structure
 
 ### Week 2
 - [ ] Develop data ingestion module
