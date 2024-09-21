@@ -1,0 +1,46 @@
+# .github/KANBAN.md
+
+## To Do
+
+### Week 1
+- [ ] Set up development environment
+- [ ] Initialize Django project
+- [ ] Create GitHub repository
+- [ ] Set up virtual environment
+- [ ] Install necessary packages (Django, DRF, pandas, scikit-learn)
+- [ ] Create basic project structure
+- [ ] Implement data simulation module
+- [ ] Set up database (PostgreSQL)
+- [ ] Create initial data models
+- [ ] Implement basic API endpoint structure
+
+### Week 2
+- [ ] Develop data ingestion module
+- [ ] Implement data cleaning and preprocessing
+- [ ] Create serializers for data models
+- [ ] Implement API endpoints for data input
+- [ ] Set up periodic tasks for data processing (Celery)
+- [ ] Implement basic authentication system
+- [ ] Create unit tests for existing modules
+- [ ] Set up continuous integration (CI) pipeline
+- [ ] Implement logging system
+- [ ] Create initial documentation (README, API docs)
+
+### Week 3
+- [ ] Implement basic machine learning model (e.g., Linear Regression)
+- [ ] Create model training script
+- [ ] Implement model serialization and deserialization
+- [ ] Create API endpoint for predictions
+- [ ] Implement basic alert system
+- [ ] Create dashboard app for basic UI
+- [ ] Implement data visualization (e.g., using Chart.js)
+- [ ] Set up error handling and monitoring
+- [ ] Implement user roles and permissions
+- [ ] Conduct code review and refactoring
+
+## In Progress
+
+
+## Done
+
+
