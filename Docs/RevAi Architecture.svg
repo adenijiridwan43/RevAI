@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect x="10" y="10" width="780" height="380" fill="#f0f0f0" stroke="#000000" stroke-width="2"/>
+  
+  <!-- IoT Devices -->
+  <rect x="50" y="50" width="100" height="50" fill="#ff9999" stroke="#000000" stroke-width="2"/>
+  <text x="100" y="80" font-family="Arial" font-size="14" text-anchor="middle">IoT Devices</text>
+  
+  <!-- Data Ingestion -->
+  <rect x="200" y="50" width="100" height="50" fill="#99ccff" stroke="#000000" stroke-width="2"/>
+  <text x="250" y="80" font-family="Arial" font-size="14" text-anchor="middle">Data Ingestion</text>
+  
+  <!-- Data Processing -->
+  <rect x="350" y="50" width="100" height="50" fill="#99ff99" stroke="#000000" stroke-width="2"/>
+  <text x="400" y="80" font-family="Arial" font-size="14" text-anchor="middle">Data Processing</text>
+  
+  <!-- ML Model -->
+  <ellipse cx="400" cy="200" rx="100" ry="50" fill="#ffcc99" stroke="#000000" stroke-width="2"/>
+  <text x="400" y="205" font-family="Arial" font-size="16" text-anchor="middle">ML Model</text>
+  
+  <!-- Prediction Engine -->
+  <rect x="550" y="175" width="120" height="50" fill="#cc99ff" stroke="#000000" stroke-width="2"/>
+  <text x="610" y="205" font-family="Arial" font-size="14" text-anchor="middle">Prediction Engine</text>
+  
+  <!-- Alert System -->
+  <rect x="550" y="50" width="100" height="50" fill="#ff99cc" stroke="#000000" stroke-width="2"/>
+  <text x="600" y="80" font-family="Arial" font-size="14" text-anchor="middle">Alert System</text>
+  
+  <!-- API Gateway -->
+  <rect x="350" y="300" width="120" height="50" fill="#99ffff" stroke="#000000" stroke-width="2"/>
+  <text x="410" y="330" font-family="Arial" font-size="14" text-anchor="middle">API Gateway</text>
+  
+  <!-- Arrows -->
+  <line x1="150" y1="75" x2="200" y2="75" stroke="#000000" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="300" y1="75" x2="350" y2="75" stroke="#000000" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="400" y1="100" x2="400" y2="150" stroke="#000000" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="500" y1="200" x2="550" y2="200" stroke="#000000" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="610" y1="175" x2="610" y2="100" stroke="#000000" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="400" y1="250" x2="400" y2="300" stroke="#000000" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Arrowhead definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" />
+    </marker>
+  </defs>
+</svg>
