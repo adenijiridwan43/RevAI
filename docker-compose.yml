@@ -1,0 +1,8 @@
+version: "4"
+
+services:
+  django:
+    image: rev_predictive_ai:0.0.1
+    build: .
+    ports:
+      - "8000:8000"
